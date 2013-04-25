@@ -1,0 +1,15 @@
+import javax.servlet.*;
+import javax.servlet.http.*;
+import java.io.*;
+
+public class CH1Servlet extends HttpServlet{
+
+  public void doGet(Http ServletRequest request, HttpServletResponse response) throws IOException{
+
+  PrintWriter out =response.getWriter();
+  java.util.Date today=new java.util.Date();
+  out.println("<html>"+"<body>"+"Hello"+"</body>"+"</html>");
+ 
+  }
+}
+

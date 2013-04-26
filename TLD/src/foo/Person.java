@@ -1,5 +1,5 @@
 /*
-  Author :Piyush Mittal(m@piyushmittal.com)
+  Author :Piyush Mittal(www.binary-beans.com)
 */
 
 

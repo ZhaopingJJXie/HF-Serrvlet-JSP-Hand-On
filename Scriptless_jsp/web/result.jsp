@@ -1,3 +1,7 @@
+<!-- 
+Author : Piyush Mittal (www.binary-beans.com)
+-->
+
 <html>
 <body>
 <jsp:useBean id="person" class="foo.Person" scope="request"/>
